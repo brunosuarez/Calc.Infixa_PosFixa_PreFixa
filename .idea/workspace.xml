@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8395fc3e-2783-46b2-b93c-804cacee4775" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WgEjcSBlzKzYrnk2urFIgFBj3k" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CalculadoraBase" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8395fc3e-2783-46b2-b93c-804cacee4775" name="Default Changelist" comment="" />
+      <created>1579562973168</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579562973168</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579564838919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="141" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1579564838919" />
+    <state x="491" y="50" width="374" height="624" key="#com.intellij.ide.util.MemberChooser" timestamp="1579563498248">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="491" y="50" width="374" height="624" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579563498248" />
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom" timestamp="1579733996734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579733996734" />
+    <state width="1320" height="172" key="GridCell.Tab.0.center" timestamp="1579733996732">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579733996732" />
+    <state width="1320" height="172" key="GridCell.Tab.0.left" timestamp="1579733996731">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579733996731" />
+    <state width="1320" height="172" key="GridCell.Tab.0.right" timestamp="1579733996733">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1320" height="172" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579733996733" />
+  </component>
+</project>
