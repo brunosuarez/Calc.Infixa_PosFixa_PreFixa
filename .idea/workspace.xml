@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8395fc3e-2783-46b2-b93c-804cacee4775" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalculadoraBase/CalculadoraBase.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalculadoraBase/CalculadoraInfixa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalculadoraBase/CalculadoraInfixaParenteses.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalculadoraBase/CalculadoraPosFixa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalculadoraBase/CalculadoraPreFixa.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/CalculadoraBase/META-INF/CalculadoraBase.kotlin_module" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CalculadoraBase.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CalculadoraInfixa.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/CalculadoraInfixaParenteses.java" afterDir="false" />
